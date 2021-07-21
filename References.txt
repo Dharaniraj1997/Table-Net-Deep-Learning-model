@@ -1,0 +1,5 @@
+https://github.com/jainammm/TableNet
+https://medium.com/analytics-vidhya/deep-learning-model-for-end-to-end-table-detection-and-tabular-data-extraction-from-scanned-3eec3dce354c
+https://github.com/tomassosorio/OCR_tablenet
+https://github.com/mawanda-jun/TableTrainNet
+https://github.com/green93/TableNet-model-deployment-using-Flask
